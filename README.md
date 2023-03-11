@@ -1,4 +1,4 @@
-# capstone-demo
+# Transforming Singapore Food & Nutrition with Machine Learning - Capstone Project
 How machine learning can facilitate food logging and push nutrition report, recipe recommendation and online purchase of ingredients. 
 Impact both healthcare and online food business opportunity. 
 Use Deep Learning models (CNN, VGG16, INCEPTION V3) for 9 classes of food images
